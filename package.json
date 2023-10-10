@@ -1,6 +1,17 @@
 {
   "type": "module",
   "private": true,
+  "version": "0.0.0",
+  "packageManager": "pnpm@8.8.0",
+  "description": "Opinionated Nitro Starter",
+  "author": "Estéban Soubiran <e.soubiran25@gmail.com> (https://github.com/barbapapazes/)",
+  "license": "MIT",
+  "homepage": "https://github.com/barbapapazes/starter-nitro",
+  "keywords": [
+    "starter",
+    "nitro",
+    "unjs"
+  ],
   "scripts": {
     "prepare": "nitropack prepare",
     "dev": "nitropack dev",

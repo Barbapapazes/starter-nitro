@@ -1,28 +1,44 @@
-# Nitro Minimal Starter
+# Opinionated Nitro Starter
 
-Look at the [Nitro documentation](https://nitro.unjs.io/) to learn more.
+> Ready to start your next project with Nitro? This starter is a great place to start.
+
+Look at the [Nitro documentation](https://nitro.unjs.io/) to learn more and do not forget to change the README.md and, LICENSE.md and package.json files.
+
+## Features
+
+- CI with GitHub Actions
+- [Autofix](https://autofix.ci) ready
+- Preconfigured ESLint with [@antfu/eslint-config](https://github.com/antfu/eslint-config)
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# npm
-npm install
-
-# yarn
-yarn install
-
 # pnpm
 pnpm install
 ```
 
-## Development Server
+## Development
 
-Start the development server on <http://localhost:3000>
+Start the development server on `http://localhost:3000`
 
 ```bash
 npm run dev
+```
+
+## Linting
+
+Run ESLint:
+
+```bash
+npm run lint
+```
+
+Fix ESLint errors:
+
+```bash
+npm run lint:fix
 ```
 
 ## Production
