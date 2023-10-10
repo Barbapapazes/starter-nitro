@@ -1,1 +1,1 @@
-export default defineNitroConfig({});
+export default defineNitroConfig({})
