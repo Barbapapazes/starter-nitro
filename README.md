@@ -1,6 +1,6 @@
 # Opinionated Nitro Starter
 
-> Ready to start your next project with Nitro? This starter is a great place to start.
+**Ready to start your next project with Nitro?** This starter is a great place to start.
 
 Look at the [Nitro documentation](https://nitro.unjs.io/) to learn more and do not forget to change the README.md and, LICENSE.md and package.json files.
 
