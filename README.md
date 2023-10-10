@@ -24,7 +24,7 @@ pnpm install
 Start the development server on `http://localhost:3000`
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ## Linting
@@ -32,13 +32,13 @@ npm run dev
 Run ESLint:
 
 ```bash
-npm run lint
+pnpm run lint
 ```
 
 Fix ESLint errors:
 
 ```bash
-npm run lint:fix
+pnpm run lint:fix
 ```
 
 ## Production
@@ -46,13 +46,13 @@ npm run lint:fix
 Build the application for production:
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 Locally preview production build:
 
 ```bash
-npm run preview
+pnpm run preview
 ```
 
 Check out the [deployment documentation](https://nitro.unjs.io/deploy) for more information.
